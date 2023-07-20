@@ -1,11 +1,12 @@
 /*  your css code here. If applicable */
 div::before{
-	content:"before element ";
+	content:"Before Element";
 	color:red;
-	text-transform:capitalize;
+	
+	
 }
 div::after{
-	content:" after element";
+	content:"After Element";
 	color:red;
-	text-transform:capitalize;
+	
 }
